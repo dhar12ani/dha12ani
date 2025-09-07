@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://www.e-startupskenya.co.ke/wp-content/uploads/2024/06/1_2JeIqLrqf1rsCizJ2ljYkg.png" alt="Coding Banner" width="800"/>
+  <img src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
 </p>
 
 <h1 align="center">Hi 👋, I'm Dharani Priyanka Madakaboyina</h1>
@@ -53,7 +53,7 @@
 ---
 
 ### 🔥 Contribution Graph
-[![Mahin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhar12ani&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dharani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhar12ani&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&hide_border=true)](https://github.com/dhar12ani/github-readme-activity-graph)
 
 ---
 
@@ -64,7 +64,7 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B3rQIxTwJTeGjtjBOQl4NMQ%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dharanipriya17"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:dharanipriya770@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/dhar12ani"><img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
