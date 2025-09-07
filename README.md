@@ -1,5 +1,6 @@
-![Full Stack Developer](https://miro.medium.com/1*5OSbGu-5Z98IT8r76UJZbw.gif)
+![Full Stack Developer](https://img.freepik.com/free-vector/female-programmer-doing-her-job-office_23-2148274929.jpg)
 
-                  HELLO! 👋 I'm DHARANI PRIYANKA MADAKABOYINA
+                  Hello 👋, I'm Dharani Priyanka Madakaboyina
+                  
       				  ----------FULL STACK DEVELOPER----------
                         
