@@ -1,1 +1,1 @@
-![Full Stack Developer](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+  ![Full Stack Developer](https://creattie.com/illustrations/item/full-stack-developer-1)
