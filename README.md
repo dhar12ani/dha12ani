@@ -1,1 +1,1 @@
-  ![Full Stack Developer](https://creattie.com/illustrations/item/full-stack-developer-1)
+  ![Full Stack Developer Animation](https://assets1.lottiefiles.com/packages/lf20_4r6k3w7r.json)
