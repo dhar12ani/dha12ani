@@ -7,13 +7,9 @@
 
 <p align="center" style="line-height: 1.2;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=000000&center=true&vCenter=true&width=650&lines=💻+Python+Full+Stack+Developer;">
+    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=000000&center=true&vCenter=true&width=650&lines=-----💻+Python+Full+Stack+Developer-----;">
   </a><br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=000000&center=true&vCenter=true&width=650&lines=⚡+Django+%7C+Python+%7C+JavaScript;">
-  </a><br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=000000&center=true&vCenter=true&width=650&lines=🚀+Always+Learning+New+Things!">
+  
   </a>
 </p>
 
@@ -22,8 +18,8 @@
 - 🔭 Currently working on Full Stack Web Development Projects
 - 🌱 Exploring Django,Python & Web Apps
 - 👯 Open to collaborate on Open Source Projects
-- 💬 Ask me about Python, Django, JavaScript
-- 📫 Reach me at: dharanipriya770@gmail.com
+- 💬 Ask me about:Python, Django, JavaScript
+- 📫 Reach me through: dharanipriya770@gmail.com
 - ⚡ Fun fact: I love building apps & watching movies 🎬
 
 ---
